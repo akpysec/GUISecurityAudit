@@ -193,7 +193,3 @@ def Main():
 
 
 Main()
-
-
-# Huge thanks to Milan Cherniak for helping me starting coding with Python, this is done with his help.
-
