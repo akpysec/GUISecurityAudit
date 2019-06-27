@@ -1,5 +1,4 @@
-# myapp
-Security Audit .txt files GUI
+# Security Audit .txt files GUI
 
 Created to perform Security Auditing with output .txt files.
 Once you have output file with specific parameters you can update "Dictionaries" within the script & add the associated keys to the Tree view portion.
